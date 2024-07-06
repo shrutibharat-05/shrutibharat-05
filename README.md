@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrutibharat-05
 - 👀 I’m interested in Innovative Hackathon Projects  
-- 🌱 I’m currently learning web3,TS,ShellScripting,FullStack, ML 
-- 💞️ I’m looking to collaborate on web3 , AIML and Cloud projects
+- 🌱 I’m currently learning web3,TS,ShellScripting,FullStack, ML and DSA 
+- 💞️ I’m looking to collaborate on some cool projects related to web3 , AIML and  DSA 
 - 📫 How to reach me: Connect with me on LinkedIn (https://www.linkedin.com/in/shruti-vhanmane-bbb357284/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: There's hardly any fun and fact Lols
