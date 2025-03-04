@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutibharat-05" alt="shrutibharat-05" /></a> </p>
-
 - 🔭 I’m currently working on **so many projects ahh**
 
 - 🌱 I’m currently learning **Cloud, Networks**
