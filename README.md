@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
 - 🔭 I’m currently working on **so many projects ahh**
 
 - 🌱 I’m currently learning **Cloud, Networks**
